@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:21:38</Created>
+	<LastChange>2019-03-05T15:23:12</LastChange></Metadata>
+	<Page imageFilename="paul_loge02_1793_0007.jpg" imageWidth="1563" imageHeight="2268" type="content">
+	<PrintSpace>
+	<Coords points="1122,2033 1122,172 0,172 0,2033"/></PrintSpace>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="941,427 941,261 88,261 88,427"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="852,691 852,486 188,486 188,691"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="675,455 675,438 388,438 388,455"/></SeparatorRegion>
+	<GraphicRegion id="r3">
+	<Coords points="777,1344 777,827 255,827 255,1344"/></GraphicRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="683,1580 683,1505 286,1505 286,1580"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="852,1850 852,1713 100,1713 100,1850"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="727,1686 727,1616 211,1616 211,1686"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r7">
+	<Coords points="922,1644 922,1575 80,1575 80,1644"/></SeparatorRegion>
+	<SeparatorRegion id="r8">
+	<Coords points="875,1727 875,1650 55,1650 55,1727"/></SeparatorRegion></Page></PcGts>

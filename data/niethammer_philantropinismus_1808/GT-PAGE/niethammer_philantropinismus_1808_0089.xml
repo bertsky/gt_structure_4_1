@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:21:00</Created>
+	<LastChange>2019-03-12T14:01:18</LastChange></Metadata>
+	<Page imageFilename="niethammer_philantropinismus_1808_0089.jpg" imageWidth="1891" imageHeight="2843" type="content">
+	<PrintSpace>
+	<Coords points="1451,2648 1451,286 62,286 62,2648"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/>
+	<RegionRefIndexed regionRef="r9" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1193,534 1193,468 1134,468 1134,534"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords points="1086,520 1086,465 300,465 300,520"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" custom="#column" type="paragraph">
+	<Coords points="1229,546 1229,1319 710,1319 710,546"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" custom="#column" type="paragraph">
+	<Coords points="1229,1321 1229,2381 710,2381 710,1321"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" custom="#column" type="paragraph">
+	<Coords points="702,550 702,1278 183,1278 183,550"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r9" custom="#column" type="paragraph">
+	<Coords points="702,1280 702,2392 183,2392 183,1280"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

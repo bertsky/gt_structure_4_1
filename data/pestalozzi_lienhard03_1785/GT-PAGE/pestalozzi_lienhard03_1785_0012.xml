@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:21:54</Created>
+	<LastChange>2019-03-12T13:58:37</LastChange></Metadata>
+	<Page imageFilename="pestalozzi_lienhard03_1785_0012.jpg" imageWidth="1080" imageHeight="1932" type="content">
+	<PrintSpace>
+	<Coords points="1019,1876 1019,50 0,50 0,1876"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="region_3" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="header">
+	<Coords points="270,141 693,141 693,231 270,231"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="signature-mark">
+	<Coords points="585,1731 696,1731 696,1797 585,1797"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="918,243 918,670 907,670 907,669 883,669 883,668 859,668 859,667 835,667 835,666 811,666 811,665 787,665 787,664 763,664 763,663 739,663 739,662 715,662 715,661 691,661 691,660 667,660 667,659 643,659 643,658 619,658 619,657 596,657 596,656 572,656 572,655 548,655 548,654 524,654 524,653 500,653 500,652 476,652 476,651 452,651 452,650 428,650 428,649 404,649 404,648 380,648 380,647 356,647 356,646 332,646 332,645 309,645 309,644 285,644 285,643 261,643 261,642 237,642 237,641 213,641 213,640 189,640 189,639 165,639 165,638 141,638 141,637 117,637 117,636 93,636 93,635 69,635 69,634 45,634 45,633 21,633 21,632 9,632 9,243"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="20,634 20,635 44,635 44,636 68,636 68,637 92,637 92,638 116,638 116,639 140,639 140,640 164,640 164,641 188,641 188,642 212,642 212,643 236,643 236,644 260,644 260,645 284,645 284,646 308,646 308,647 331,647 331,648 355,648 355,649 379,649 379,650 403,650 403,651 427,651 427,652 451,652 451,653 475,653 475,654 499,654 499,655 523,655 523,656 547,656 547,657 571,657 571,658 595,658 595,659 618,659 618,660 642,660 642,661 666,661 666,662 690,662 690,663 714,663 714,664 738,664 738,665 762,665 762,666 786,666 786,667 810,667 810,668 834,668 834,669 858,669 858,670 882,670 882,671 906,671 906,672 918,672 918,1722 9,1722 9,634"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

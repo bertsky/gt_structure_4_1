@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:22:05</Created>
+	<LastChange>2019-03-12T13:52:52</LastChange></Metadata>
+	<Page imageFilename="planck_thermodynamik_1897_0216.jpg" imageWidth="2185" imageHeight="2937" type="content">
+	<PrintSpace>
+	<Coords points="2117,2771 2117,210 453,210 453,2771"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/></OrderedGroup></ReadingOrder>
+	<GraphicRegion id="region_1">
+	<Coords points="976,876 1648,876 1648,1700 976,1700"/></GraphicRegion>
+	<TextRegion id="region_2" type="caption">
+	<Coords points="1240,1700 1415,1700 1415,1762 1240,1762"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="footnote-continued">
+	<Coords points="683,2096 1975,2096 1975,2503 683,2503"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="832,439 832,389 725,389 725,439"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords points="1814,446 1814,385 882,385 882,446"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1975,2103 1975,1775 678,1775 678,2103"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1978,485 1978,713 1921,713 1921,712 1805,712 1805,711 1690,711 1690,710 1574,710 1574,709 1459,709 1459,708 1343,708 1343,707 1227,707 1227,706 1112,706 1112,705 996,705 996,704 881,704 881,703 765,703 765,702 707,702 707,485"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="764,704 764,705 880,705 880,706 995,706 995,707 1111,707 1111,708 1226,708 1226,709 1342,709 1342,710 1458,710 1458,711 1573,711 1573,712 1689,712 1689,713 1804,713 1804,714 1920,714 1920,715 1978,715 1978,875 707,875 707,704"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

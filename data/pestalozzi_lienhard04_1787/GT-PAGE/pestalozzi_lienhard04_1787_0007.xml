@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:21:57</Created>
+	<LastChange>2019-03-05T15:36:47</LastChange></Metadata>
+	<Page imageFilename="pestalozzi_lienhard04_1787_0007.jpg" imageWidth="1076" imageHeight="1980" type="content">
+	<PrintSpace>
+	<Coords points="995,1885 995,90 0,90 0,1885"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_2" index="0"/></OrderedGroup></ReadingOrder>
+	<GraphicRegion id="region_2">
+	<Coords points="234,1079 702,1079 702,1396 234,1396"/></GraphicRegion>
+	<SeparatorRegion id="r0">
+	<Coords points="912,1592 912,1546 51,1546 51,1592"/></SeparatorRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="678,1785 678,1646 260,1646 260,1785"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="885,614 885,182 29,182 29,614"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="785,804 785,734 156,734 156,804"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="731,995 731,921 219,921 219,995"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r5">
+	<Coords points="721,717 721,670 214,670 214,717"/></SeparatorRegion>
+	<SeparatorRegion id="r6">
+	<Coords points="751,875 751,839 224,839 224,875"/></SeparatorRegion></Page></PcGts>

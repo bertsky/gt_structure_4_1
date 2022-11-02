@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:22:12</Created>
+	<LastChange>2019-03-12T13:52:23</LastChange></Metadata>
+	<Page imageFilename="ploetz_rassenhygiene_1895_0194.jpg" imageWidth="1978" imageHeight="2863" type="content">
+	<PrintSpace>
+	<Coords points="1903,2689 1903,214 325,214 325,2689"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r11" index="1"/>
+	<RegionRefIndexed regionRef="r13" index="2"/></OrderedGroup></ReadingOrder>
+	<TableRegion id="region_1">
+	<Coords points="673,1206 1859,1206 1859,2156 673,2156"/></TableRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1314,439 1314,382 1232,382 1232,439"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1882,457 1882,566 1795,566 1795,565 1620,565 1620,564 1445,564 1445,563 1270,563 1270,562 1095,562 1095,561 920,561 920,560 745,560 745,559 657,559 657,457"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="744,561 744,562 919,562 919,563 1094,563 1094,564 1269,564 1269,565 1444,565 1444,566 1619,566 1619,567 1794,567 1794,568 1882,568 1882,902 1848,902 1848,901 1780,901 1780,900 1712,900 1712,899 1644,899 1644,898 1576,898 1576,897 1508,897 1508,896 1440,896 1440,895 1372,895 1372,894 1304,894 1304,893 1236,893 1236,892 1168,892 1168,891 1100,891 1100,890 1032,890 1032,889 964,889 964,888 896,888 896,887 828,887 828,886 760,886 760,885 692,885 692,884 657,884 657,561"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords points="691,886 691,887 759,887 759,888 827,888 827,889 895,889 895,890 963,890 963,891 1031,891 1031,892 1099,892 1099,893 1167,893 1167,894 1235,894 1235,895 1303,895 1303,896 1371,896 1371,897 1439,897 1439,898 1507,898 1507,899 1575,899 1575,900 1643,900 1643,901 1711,901 1711,902 1779,902 1779,903 1847,903 1847,904 1882,904 1882,1192 657,1192 657,886"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="footnote">
+	<Coords points="1858,2156 1858,2252 1658,2252 1658,2251 1258,2251 1258,2250 857,2250 857,2249 656,2249 656,2156"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="footnote">
+	<Coords points="856,2251 856,2252 1257,2252 1257,2253 1657,2253 1657,2254 1858,2254 1858,2345 656,2345 656,2251"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

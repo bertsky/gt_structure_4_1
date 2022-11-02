@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:21:57</Created>
+	<LastChange>2019-03-12T13:56:01</LastChange></Metadata>
+	<Page imageFilename="pestalozzi_lienhard04_1787_0451.jpg" imageWidth="1076" imageHeight="1980" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="r10" index="0"/>
+	<RegionRefIndexed regionRef="r12" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/>
+	<RegionRefIndexed regionRef="r8" index="3"/>
+	<RegionRefIndexed regionRef="r4" index="4"/>
+	<RegionRefIndexed regionRef="region_3" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_3" type="signature-mark">
+	<Coords points="594,1739 689,1739 689,1807 594,1807"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="900,253 900,207 800,207 800,253"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" custom="#column" type="paragraph">
+	<Coords points="495,1347 495,1348 562,1348 562,1349 628,1349 628,1350 695,1350 695,1351 762,1351 762,1352 828,1352 828,1353 895,1353 895,1354 929,1354 929,1738 462,1738 462,1347"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" custom="#column" type="paragraph">
+	<Coords points="929,254 929,303 890,303 890,304 812,304 812,305 734,305 734,306 656,306 656,307 578,307 578,308 500,308 500,309 462,309 462,254"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r8" custom="#column" type="paragraph">
+	<Coords points="929,305 929,1352 896,1352 896,1351 829,1351 829,1350 763,1350 763,1349 696,1349 696,1348 629,1348 629,1347 563,1347 563,1346 496,1346 496,1345 462,1345 462,311 501,311 501,310 579,310 579,309 657,309 657,308 735,308 735,307 813,307 813,306 891,306 891,305"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r10" custom="#column" type="paragraph">
+	<Coords points="459,244 459,299 384,299 384,298 233,298 233,297 81,297 81,296 5,296 5,244"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r12" custom="#column" type="paragraph">
+	<Coords points="383,1353 383,1354 459,1354 459,1798 5,1798 5,1353"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

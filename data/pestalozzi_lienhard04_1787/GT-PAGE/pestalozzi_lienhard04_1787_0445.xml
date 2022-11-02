@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:21:57</Created>
+	<LastChange>2019-03-12T13:55:35</LastChange></Metadata>
+	<Page imageFilename="pestalozzi_lienhard04_1787_0445.jpg" imageWidth="1076" imageHeight="1980" type="content">
+	<PrintSpace>
+	<Coords points="1009,1868 1009,82 0,82 0,1868"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/>
+	<RegionRefIndexed regionRef="r10" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r4" index="4"/>
+	<RegionRefIndexed regionRef="r8" index="5"/>
+	<RegionRefIndexed regionRef="r9" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#heading_level2" type="heading">
+	<Coords points="102,312 796,312 796,476 102,476"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="892,268 892,214 790,214 790,268"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="882,304 882,278 43,278 43,304"/></SeparatorRegion>
+	<TextRegion id="r5" custom="#column" type="paragraph">
+	<Coords points="476,1718 476,1826 7,1826 7,1718"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r9" custom="#column" type="paragraph">
+	<Coords points="948,1710 948,1826 477,1826 477,1730 489,1730 489,1729 513,1729 513,1728 536,1728 536,1727 560,1727 560,1726 583,1726 583,1725 607,1725 607,1724 631,1724 631,1723 654,1723 654,1722 678,1722 678,1721 701,1721 701,1720 725,1720 725,1719 748,1719 748,1718 772,1718 772,1717 795,1717 795,1716 819,1716 819,1715 843,1715 843,1714 866,1714 866,1713 890,1713 890,1712 913,1712 913,1711 937,1711 937,1710"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" custom="#column" type="paragraph">
+	<Coords points="948,487 948,891 924,891 924,892 877,892 877,893 830,893 830,894 783,894 783,895 736,895 736,896 688,896 688,897 641,897 641,898 594,898 594,899 547,899 547,900 500,900 500,901 477,901 477,487"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r8" custom="#column" type="paragraph">
+	<Coords points="948,893 948,1708 936,1708 936,1709 912,1709 912,1710 889,1710 889,1711 865,1711 865,1712 842,1712 842,1713 818,1713 818,1714 794,1714 794,1715 771,1715 771,1716 747,1716 747,1717 724,1717 724,1718 700,1718 700,1719 677,1719 677,1720 653,1720 653,1721 630,1721 630,1722 606,1722 606,1723 582,1723 582,1724 559,1724 559,1725 535,1725 535,1726 512,1726 512,1727 488,1727 488,1728 477,1728 477,903 501,903 501,902 548,902 548,901 595,901 595,900 642,900 642,899 689,899 689,898 737,898 737,897 784,897 784,896 831,896 831,895 878,895 878,894 925,894 925,893"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" custom="#column" type="paragraph">
+	<Coords points="476,482 476,920 397,920 397,921 241,921 241,922 85,922 85,923 7,923 7,482"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r10" custom="#column" type="paragraph">
+	<Coords points="476,922 476,1716 7,1716 7,925 86,925 86,924 242,924 242,923 398,923 398,922"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

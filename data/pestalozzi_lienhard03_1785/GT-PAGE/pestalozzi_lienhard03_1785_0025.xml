@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:21:54</Created>
+	<LastChange>2019-03-12T13:57:06</LastChange></Metadata>
+	<Page imageFilename="pestalozzi_lienhard03_1785_0025.jpg" imageWidth="1080" imageHeight="1932" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="186,129 279,129 279,198 186,198"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1071,201 1071,1329 1052,1329 1052,1330 1015,1330 1015,1331 978,1331 978,1332 941,1332 941,1333 905,1333 905,1334 868,1334 868,1335 831,1335 831,1336 794,1336 794,1337 757,1337 757,1338 720,1338 720,1339 683,1339 683,1340 646,1340 646,1341 610,1341 610,1342 573,1342 573,1343 536,1343 536,1344 499,1344 499,1345 462,1345 462,1346 425,1346 425,1347 388,1347 388,1348 351,1348 351,1349 315,1349 315,1350 278,1350 278,1351 241,1351 241,1352 204,1352 204,1353 186,1353 186,201"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1071,1331 1071,1740 186,1740 186,1355 205,1355 205,1354 242,1354 242,1353 279,1353 279,1352 316,1352 316,1351 352,1351 352,1350 389,1350 389,1349 426,1349 426,1348 463,1348 463,1347 500,1347 500,1346 537,1346 537,1345 574,1345 574,1344 611,1344 611,1343 647,1343 647,1342 684,1342 684,1341 721,1341 721,1340 758,1340 758,1339 795,1339 795,1338 832,1338 832,1337 869,1337 869,1336 906,1336 906,1335 942,1335 942,1334 979,1334 979,1333 1016,1333 1016,1332 1053,1332 1053,1331"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

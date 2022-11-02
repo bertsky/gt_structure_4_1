@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:20:57</Created>
+	<LastChange>2019-03-05T15:16:32</LastChange></Metadata>
+	<Page imageFilename="niebuhr_roemische01_1811_0007.jpg" imageWidth="1805" imageHeight="2527" type="content">
+	<PrintSpace>
+	<Coords points="1312,2403 1312,100 3,100 3,2403"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_2" index="0"/>
+	<RegionRefIndexed regionRef="region_3" index="1"/></OrderedGroup></ReadingOrder>
+	<SeparatorRegion id="region_2">
+	<Coords points="100,1663 1078,1663 1078,1722 100,1722"/></SeparatorRegion>
+	<SeparatorRegion id="region_3">
+	<Coords points="80,1806 1105,1806 1105,1858 80,1858"/></SeparatorRegion>
+	<GraphicRegion id="r0" type="stamp">
+	<Coords points="818,1093 812,1109 803,1121 793,1131 787,1146 781,1156 771,1168 768,1190 768,1218 765,1231 765,1265 768,1275 775,1284 784,1296 787,1306 793,1315 806,1334 818,1346 821,1356 831,1362 837,1371 850,1381 859,1387 875,1393 884,1400 893,1406 906,1412 915,1421 925,1425 934,1431 956,1437 971,1443 984,1446 1000,1453 1071,1453 1090,1446 1100,1443 1121,1431 1131,1425 1140,1418 1146,1409 1153,1400 1159,1387 1171,1371 1178,1359 1187,1346 1193,1331 1203,1315 1212,1296 1212,1231 1209,1218 1200,1203 1190,1190 1178,1171 1171,1153 1165,1143 1159,1134 1150,1125 1140,1118 1128,1106 1118,1096 1109,1087 1096,1081 1081,1071 1071,1065 1062,1059 1053,1053 1043,1046 1034,1040 1018,1037 1000,1034 981,1031 912,1031 900,1034 893,1043 881,1050 868,1059 856,1062 846,1071 834,1081 815,1090 803,1096 793,1100"/></GraphicRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1106,946 1106,268 65,268 65,946"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="803,1484 803,1421 337,1421 337,1484"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="893,1778 893,1743 250,1743 250,1778"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1100,2165 1100,1915 96,1915 96,2165"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:21:17</Created>
+	<LastChange>2019-03-12T14:00:05</LastChange></Metadata>
+	<Page imageFilename="oken_biologie_1805_0027.jpg" imageWidth="1615" imageHeight="2291" type="content">
+	<PrintSpace>
+	<Coords points="1272,2180 1272,197 91,197 91,2180"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/></OrderedGroup></ReadingOrder>
+	<TableRegion id="region_1">
+	<Coords points="212,411 1096,411 1096,678 212,678"/></TableRegion>
+	<TableRegion id="region_2">
+	<Coords points="207,690 1096,690 1096,969 207,969"/></TableRegion>
+	<TableRegion id="region_3">
+	<Coords points="207,981 1098,981 1098,1260 207,1260"/></TableRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="669,397 669,336 627,336 627,397"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="catch-word">
+	<Coords points="1077,1988 1077,1941 991,1941 991,1988"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1091,1272 1091,1674 1056,1674 1056,1675 988,1675 988,1676 920,1676 920,1677 852,1677 852,1678 784,1678 784,1679 716,1679 716,1680 648,1680 648,1681 579,1681 579,1682 511,1682 511,1683 443,1683 443,1684 375,1684 375,1685 307,1685 307,1686 239,1686 239,1687 205,1687 205,1272"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="1091,1676 1091,1927 205,1927 205,1689 240,1689 240,1688 308,1688 308,1687 376,1687 376,1686 444,1686 444,1685 512,1685 512,1684 580,1684 580,1683 649,1683 649,1682 717,1682 717,1681 785,1681 785,1680 853,1680 853,1679 921,1679 921,1678 989,1678 989,1677 1057,1677 1057,1676"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

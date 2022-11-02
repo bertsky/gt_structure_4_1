@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:21:00</Created>
+	<LastChange>2019-03-12T14:00:53</LastChange></Metadata>
+	<Page imageFilename="niethammer_philantropinismus_1808_0091.jpg" imageWidth="1891" imageHeight="2843" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="r7" index="0"/>
+	<RegionRefIndexed regionRef="r11" index="1"/>
+	<RegionRefIndexed regionRef="r13" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/>
+	<RegionRefIndexed regionRef="r15" index="4"/>
+	<RegionRefIndexed regionRef="r17" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r0" type="header">
+	<Coords points="1072,531 1072,462 286,462 286,531"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="page-number">
+	<Coords points="1179,524 1179,465 1113,465 1113,524"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" custom="#column" type="paragraph">
+	<Coords points="685,546 685,1095 647,1095 647,1096 573,1096 573,1097 498,1097 498,1098 424,1098 424,1099 349,1099 349,1100 274,1100 274,1101 200,1101 200,1102 163,1102 163,546"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" custom="#column" type="paragraph">
+	<Coords points="1212,546 1212,1109 1185,1109 1185,1110 1133,1110 1133,1111 1081,1111 1081,1112 1029,1112 1029,1113 977,1113 977,1114 924,1114 924,1115 872,1115 872,1116 820,1116 820,1117 768,1117 768,1118 716,1118 716,1119 690,1119 690,546"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r11" custom="#column" type="paragraph">
+	<Coords points="1212,1111 1212,2261 1175,2261 1175,2260 1101,2260 1101,2259 1026,2259 1026,2258 952,2258 952,2257 877,2257 877,2256 802,2256 802,2255 728,2255 728,2254 690,2254 690,1121 717,1121 717,1120 769,1120 769,1119 821,1119 821,1118 873,1118 873,1117 925,1117 925,1116 978,1116 978,1115 1030,1115 1030,1114 1082,1114 1082,1113 1134,1113 1134,1112 1186,1112 1186,1111"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r13" custom="#column" type="paragraph">
+	<Coords points="727,2256 727,2257 801,2257 801,2258 876,2258 876,2259 951,2259 951,2260 1025,2260 1025,2261 1100,2261 1100,2262 1174,2262 1174,2263 1212,2263 1212,2385 690,2385 690,2256"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r15" custom="#column" type="paragraph">
+	<Coords points="685,1097 685,2274 163,2274 163,1104 201,1104 201,1103 275,1103 275,1102 350,1102 350,1101 425,1101 425,1100 499,1100 499,1099 574,1099 574,1098 648,1098 648,1097"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r17" custom="#column" type="paragraph">
+	<Coords points="685,2276 685,2388 163,2388 163,2276"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:21:17</Created>
+	<LastChange>2019-03-05T15:20:12</LastChange></Metadata>
+	<Page imageFilename="oken_biologie_1805_0019.jpg" imageWidth="1616" imageHeight="2291" type="content">
+	<PrintSpace>
+	<Coords points="1247,2169 1247,200 113,200 113,2169"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_2" index="0"/>
+	<RegionRefIndexed regionRef="region_3" index="1"/>
+	<RegionRefIndexed regionRef="region_4" index="2"/>
+	<RegionRefIndexed regionRef="region_5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_2" custom="#cit" type="paragraph">
+	<Coords points="186,831 1041,831 1041,993 186,993"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="paragraph">
+	<Coords points="141,1110 1101,1110 1101,1946 141,1946"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" type="catch-word">
+	<Coords points="870,1953 1044,1953 1044,2016 870,2016"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_5" type="signature-mark">
+	<Coords points="573,1953 690,1953 690,2013 573,2013"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r0">
+	<Coords points="1019,411 1019,350 208,350 208,411"/></SeparatorRegion></Page></PcGts>

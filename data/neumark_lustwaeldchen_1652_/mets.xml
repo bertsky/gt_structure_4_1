@@ -113,7 +113,7 @@
                 ID="loc_0001"/>
    </mets:structMap>
    <mets:structMap TYPE="PHYSICAL">
-      <mets:div TYPE="physSequence" ID="phys_0000" DMDID="DMDGT_0000"/>
+      <mets:div TYPE="physSequence" ID="phys_0000"/>
    </mets:structMap>
    <mets:structLink>
       <mets:smLink xlink:from="loc_0001" xlink:to="phys_0000"/>

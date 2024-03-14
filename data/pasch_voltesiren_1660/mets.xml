@@ -107,25 +107,7 @@
          </mets:xmlData>
       </mets:mdWrap>
    </mets:dmdSec>
-   <mets:dmdSec ID="DMDGT_0004">
-      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
-         <mets:xmlData>
-            <gt:gt>
-               <gt:state prop="granularity/physical/document-related/region"/>
-            </gt:gt>
-         </mets:xmlData>
-      </mets:mdWrap>
-   </mets:dmdSec>
    <mets:dmdSec ID="DMDGT_0005">
-      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
-         <mets:xmlData>
-            <gt:gt>
-               <gt:state prop="granularity/physical/document-related/region"/>
-            </gt:gt>
-         </mets:xmlData>
-      </mets:mdWrap>
-   </mets:dmdSec>
-   <mets:dmdSec ID="DMDGT_0006">
       <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
          <mets:xmlData>
             <gt:gt>
@@ -170,25 +152,7 @@
          </mets:xmlData>
       </mets:mdWrap>
    </mets:dmdSec>
-   <mets:dmdSec ID="DMDGT_0011">
-      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
-         <mets:xmlData>
-            <gt:gt>
-               <gt:state prop="granularity/physical/document-related/region"/>
-            </gt:gt>
-         </mets:xmlData>
-      </mets:mdWrap>
-   </mets:dmdSec>
    <mets:dmdSec ID="DMDGT_0012">
-      <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
-         <mets:xmlData>
-            <gt:gt>
-               <gt:state prop="granularity/physical/document-related/region"/>
-            </gt:gt>
-         </mets:xmlData>
-      </mets:mdWrap>
-   </mets:dmdSec>
-   <mets:dmdSec ID="DMDGT_0013">
       <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="GT">
          <mets:xmlData>
             <gt:gt>
@@ -294,19 +258,9 @@
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/pasch_voltesiren_1660_0005.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
-                    ID="OCR-D-GT-SEG-PAGE_0004"
-                    GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/pasch_voltesiren_1660_0006.xml"/>
-         </mets:file>
-         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0005"
                     GROUPID="OCR-D-IMG_0005">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/pasch_voltesiren_1660_0011.xml"/>
-         </mets:file>
-         <mets:file MIMETYPE="application/vnd.prima.page+xml"
-                    ID="OCR-D-GT-SEG-PAGE_0006"
-                    GROUPID="OCR-D-IMG_0006">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/pasch_voltesiren_1660_0012.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0007"
@@ -329,19 +283,9 @@
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/pasch_voltesiren_1660_0024.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
-                    ID="OCR-D-GT-SEG-PAGE_0011"
-                    GROUPID="OCR-D-IMG_0011">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/pasch_voltesiren_1660_0029.xml"/>
-         </mets:file>
-         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0012"
                     GROUPID="OCR-D-IMG_0012">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/pasch_voltesiren_1660_0030.xml"/>
-         </mets:file>
-         <mets:file MIMETYPE="application/vnd.prima.page+xml"
-                    ID="OCR-D-GT-SEG-PAGE_0013"
-                    GROUPID="OCR-D-IMG_0013">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/pasch_voltesiren_1660_0035.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0014"
@@ -391,19 +335,9 @@
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/pasch_voltesiren_1660_0005.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
-                    ID="OCR-D-GT-SEG-BLOCK_0004"
-                    GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/pasch_voltesiren_1660_0006.xml"/>
-         </mets:file>
-         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0005"
                     GROUPID="OCR-D-IMG_0005">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/pasch_voltesiren_1660_0011.xml"/>
-         </mets:file>
-         <mets:file MIMETYPE="application/vnd.prima.page+xml"
-                    ID="OCR-D-GT-SEG-BLOCK_0006"
-                    GROUPID="OCR-D-IMG_0006">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/pasch_voltesiren_1660_0012.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0007"
@@ -426,19 +360,9 @@
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/pasch_voltesiren_1660_0024.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
-                    ID="OCR-D-GT-SEG-BLOCK_0011"
-                    GROUPID="OCR-D-IMG_0011">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/pasch_voltesiren_1660_0029.xml"/>
-         </mets:file>
-         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0012"
                     GROUPID="OCR-D-IMG_0012">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/pasch_voltesiren_1660_0030.xml"/>
-         </mets:file>
-         <mets:file MIMETYPE="application/vnd.prima.page+xml"
-                    ID="OCR-D-GT-SEG-BLOCK_0013"
-                    GROUPID="OCR-D-IMG_0013">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="GT-PAGE/pasch_voltesiren_1660_0035.xml"/>
          </mets:file>
          <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0014"
@@ -481,14 +405,8 @@
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0003" GROUPID="OCR-D-IMG_0003">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/pasch_voltesiren_1660_0005.jpg"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0004" GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/pasch_voltesiren_1660_0006.jpg"/>
-         </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0005" GROUPID="OCR-D-IMG_0005">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/pasch_voltesiren_1660_0011.jpg"/>
-         </mets:file>
-         <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0006" GROUPID="OCR-D-IMG_0006">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/pasch_voltesiren_1660_0012.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0007" GROUPID="OCR-D-IMG_0007">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/pasch_voltesiren_1660_0017.jpg"/>
@@ -502,14 +420,8 @@
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0010" GROUPID="OCR-D-IMG_0010">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/pasch_voltesiren_1660_0024.jpg"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0011" GROUPID="OCR-D-IMG_0011">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/pasch_voltesiren_1660_0029.jpg"/>
-         </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0012" GROUPID="OCR-D-IMG_0012">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/pasch_voltesiren_1660_0030.jpg"/>
-         </mets:file>
-         <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0013" GROUPID="OCR-D-IMG_0013">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/pasch_voltesiren_1660_0035.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="DEFAULT_0014" GROUPID="OCR-D-IMG_0014">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/pasch_voltesiren_1660_0036.jpg"/>
@@ -540,14 +452,8 @@
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0003" GROUPID="OCR-D-IMG_0003">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/pasch_voltesiren_1660_0005.jpg"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0004" GROUPID="OCR-D-IMG_0004">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/pasch_voltesiren_1660_0006.jpg"/>
-         </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0005" GROUPID="OCR-D-IMG_0005">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/pasch_voltesiren_1660_0011.jpg"/>
-         </mets:file>
-         <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0006" GROUPID="OCR-D-IMG_0006">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/pasch_voltesiren_1660_0012.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0007" GROUPID="OCR-D-IMG_0007">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/pasch_voltesiren_1660_0017.jpg"/>
@@ -561,14 +467,8 @@
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0010" GROUPID="OCR-D-IMG_0010">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/pasch_voltesiren_1660_0024.jpg"/>
          </mets:file>
-         <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0011" GROUPID="OCR-D-IMG_0011">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/pasch_voltesiren_1660_0029.jpg"/>
-         </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0012" GROUPID="OCR-D-IMG_0012">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/pasch_voltesiren_1660_0030.jpg"/>
-         </mets:file>
-         <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0013" GROUPID="OCR-D-IMG_0013">
-            <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/pasch_voltesiren_1660_0035.jpg"/>
          </mets:file>
          <mets:file MIMETYPE="image/jpeg" ID="OCR-D-IMG_0014" GROUPID="OCR-D-IMG_0014">
             <mets:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="FILE" xlink:href="jpg/pasch_voltesiren_1660_0036.jpg"/>
@@ -618,23 +518,11 @@
             <mets:fptr FILEID="DEFAULT_0003"/>
             <mets:fptr FILEID="OCR-D-IMG_0003"/>
          </mets:div>
-         <mets:div TYPE="page" ORDER="4" ID="phys_0004" DMDID="DMDGT_0004">
-            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0004"/>
-            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0004"/>
-            <mets:fptr FILEID="DEFAULT_0004"/>
-            <mets:fptr FILEID="OCR-D-IMG_0004"/>
-         </mets:div>
          <mets:div TYPE="page" ORDER="5" ID="phys_0005" DMDID="DMDGT_0005">
             <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0005"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0005"/>
             <mets:fptr FILEID="DEFAULT_0005"/>
             <mets:fptr FILEID="OCR-D-IMG_0005"/>
-         </mets:div>
-         <mets:div TYPE="page" ORDER="6" ID="phys_0006" DMDID="DMDGT_0006">
-            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0006"/>
-            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0006"/>
-            <mets:fptr FILEID="DEFAULT_0006"/>
-            <mets:fptr FILEID="OCR-D-IMG_0006"/>
          </mets:div>
          <mets:div TYPE="page" ORDER="7" ID="phys_0007" DMDID="DMDGT_0007">
             <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0007"/>
@@ -660,23 +548,11 @@
             <mets:fptr FILEID="DEFAULT_0010"/>
             <mets:fptr FILEID="OCR-D-IMG_0010"/>
          </mets:div>
-         <mets:div TYPE="page" ORDER="11" ID="phys_0011" DMDID="DMDGT_0011">
-            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0011"/>
-            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0011"/>
-            <mets:fptr FILEID="DEFAULT_0011"/>
-            <mets:fptr FILEID="OCR-D-IMG_0011"/>
-         </mets:div>
          <mets:div TYPE="page" ORDER="12" ID="phys_0012" DMDID="DMDGT_0012">
             <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0012"/>
             <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0012"/>
             <mets:fptr FILEID="DEFAULT_0012"/>
             <mets:fptr FILEID="OCR-D-IMG_0012"/>
-         </mets:div>
-         <mets:div TYPE="page" ORDER="13" ID="phys_0013" DMDID="DMDGT_0013">
-            <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0013"/>
-            <mets:fptr FILEID="OCR-D-GT-SEG-BLOCK_0013"/>
-            <mets:fptr FILEID="DEFAULT_0013"/>
-            <mets:fptr FILEID="OCR-D-IMG_0013"/>
          </mets:div>
          <mets:div TYPE="page" ORDER="14" ID="phys_0014" DMDID="DMDGT_0014">
             <mets:fptr FILEID="OCR-D-GT-SEG-PAGE_0014"/>
@@ -722,16 +598,13 @@
       <mets:smLink xlink:from="loc_d1e420" xlink:to="phys_0001"/>
       <mets:smLink xlink:from="loc_d1e420" xlink:to="phys_0002"/>
       <mets:smLink xlink:from="loc_d1e420" xlink:to="phys_0003"/>
-      <mets:smLink xlink:from="loc_d1e420" xlink:to="phys_0004"/>
       <mets:smLink xlink:from="loc_d1e420" xlink:to="phys_0005"/>
       <mets:smLink xlink:from="loc_d1e420" xlink:to="phys_0006"/>
       <mets:smLink xlink:from="loc_d1e420" xlink:to="phys_0007"/>
       <mets:smLink xlink:from="loc_d1e420" xlink:to="phys_0008"/>
       <mets:smLink xlink:from="loc_d1e420" xlink:to="phys_0009"/>
       <mets:smLink xlink:from="loc_d1e420" xlink:to="phys_0010"/>
-      <mets:smLink xlink:from="loc_d1e420" xlink:to="phys_0011"/>
       <mets:smLink xlink:from="loc_d1e420" xlink:to="phys_0012"/>
-      <mets:smLink xlink:from="loc_d1e420" xlink:to="phys_0013"/>
       <mets:smLink xlink:from="loc_d1e420" xlink:to="phys_0014"/>
       <mets:smLink xlink:from="loc_d1e420" xlink:to="phys_0015"/>
       <mets:smLink xlink:from="loc_d1e420" xlink:to="phys_0016"/>

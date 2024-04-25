@@ -22,7 +22,7 @@
                <mods:location>
                   <mods:physicalLocation>HAB Wolfenbüttel</mods:physicalLocation>
                   <mods:shelfLocator>HAB Wolfenbüttel, A: 48.6 Pol. (1)</mods:shelfLocator>
-                  <mods:url>Dig: http://diglib.hab.de/drucke/48-6-pol-1s/start.htm</mods:url>
+                  <mods:url>http://diglib.hab.de/drucke/48-6-pol-1s/start.htm</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>

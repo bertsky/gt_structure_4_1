@@ -776,25 +776,6 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>neumark_lustwaeldchen_1652_Stefan_90</td>
-                  <td>50</td>
-                  <td/>
-                  <td/>
-                  <td>15</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>21</td>
-               </tr>
-               <tr>
                   <td>praetorius_syntagma02_1619</td>
                   <td>159</td>
                   <td/>
@@ -1059,6 +1040,25 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td>20</td>
+               </tr>
+               <tr>
+                  <td>neumark_lustwaeldchen_1652</td>
+                  <td>50</td>
+                  <td/>
+                  <td/>
+                  <td>15</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>21</td>
                </tr>
                <tr>
                   <td>oa_cartouche_1722</td>
